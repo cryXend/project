@@ -1,0 +1,1 @@
+squash6.md
